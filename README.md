@@ -1,2 +1,2 @@
 # gophercises
-excersises for practising golang
+excersises for practicing golang
