@@ -1,2 +1,1 @@
-# gophercises
-excersises for practicing golang
+## Quiz made with GoLang
